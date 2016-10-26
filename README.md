@@ -11,6 +11,7 @@ A plugin to generate Excel files with CakePHP.
 
 * CakePHP 3.x
 * PHP 5.4.16 or greater
+* PHP Zip extension
 * Patience
 
 ## Installation
